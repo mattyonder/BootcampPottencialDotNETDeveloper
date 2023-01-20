@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQG/2aaL4YbMSJutgQY/BruaL1QEUlY201I+uT8NfmQzY0VInM68SZhrMyhmOcubZYu+Ze+w2e1/+aqMIn0hdg==",
+  "success": true,
+  "projectFilePath": "/home/mateus-zorinos/Documents/Estudos/DIO/dotnetEstudos/ExemploExplorando/ExemploExplorando.csproj",
+  "expectedPackageFiles": [
+    "/home/mateus-zorinos/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

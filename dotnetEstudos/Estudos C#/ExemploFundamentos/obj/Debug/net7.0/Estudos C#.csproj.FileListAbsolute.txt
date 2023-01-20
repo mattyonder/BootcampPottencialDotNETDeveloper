@@ -1,0 +1,33 @@
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/bin/Debug/net7.0/Estudos C#
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/bin/Debug/net7.0/Estudos C#.deps.json
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/bin/Debug/net7.0/Estudos C#.runtimeconfig.json
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/bin/Debug/net7.0/Estudos C#.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/bin/Debug/net7.0/Estudos C#.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/Estudos C#.csproj.AssemblyReference.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/Estudos C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/Estudos C#.AssemblyInfoInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/Estudos C#.AssemblyInfo.cs
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/Estudos C#.csproj.CoreCompileInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/Estudos C#.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/refint/Estudos C#.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/Estudos C#.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/Estudos C#.genruntimeconfig.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/obj/Debug/net7.0/ref/Estudos C#.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/bin/Debug/net7.0/Estudos C#
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/bin/Debug/net7.0/Estudos C#.deps.json
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/bin/Debug/net7.0/Estudos C#.runtimeconfig.json
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/bin/Debug/net7.0/Estudos C#.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/bin/Debug/net7.0/Estudos C#.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentosCommon.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentosCommon.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.csproj.AssemblyReference.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.AssemblyInfoInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.AssemblyInfo.cs
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.csproj.CoreCompileInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.csproj.CopyComplete
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/refint/Estudos C#.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/Estudos C#.genruntimeconfig.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentos/obj/Debug/net7.0/ref/Estudos C#.dll

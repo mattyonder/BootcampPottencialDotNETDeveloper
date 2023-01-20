@@ -1,0 +1,12 @@
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/bin/Debug/net7.0/ExemploFundamentosCommon.deps.json
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/bin/Debug/net7.0/ExemploFundamentosCommon.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/bin/Debug/net7.0/ExemploFundamentosCommon.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/ExemploFundamentosCommon.csproj.AssemblyReference.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/ExemploFundamentosCommon.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/ExemploFundamentosCommon.AssemblyInfoInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/ExemploFundamentosCommon.AssemblyInfo.cs
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/ExemploFundamentosCommon.csproj.CoreCompileInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/ExemploFundamentosCommon.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/refint/ExemploFundamentosCommon.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/ExemploFundamentosCommon.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/dotnetEstudos/Estudos C#/ExemploFundamentosCommon/obj/Debug/net7.0/ref/ExemploFundamentosCommon.dll
