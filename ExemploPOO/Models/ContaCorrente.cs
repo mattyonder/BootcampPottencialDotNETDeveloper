@@ -7,19 +7,19 @@ namespace ExemploPOO.Models
 {
     public class ContaCorrente
     {
-        public ContaCorrente(int numeroConta, decimal saldoInicial)
+        public ContaCorrente(int accountNumber, decimal openingBalance)
         {
-            NumeroConta = numeroConta;
-            saldo = saldoInicial;
+            AccountNumber = accountNumber;
+            balance = openingBalance;
         }
-        public int NumeroConta { get; set; }
+        public int AccountNumber { get; set; }
 
-        private decimal saldo;
+        private decimal balance;
 
-        public void Sacar(decimal valor)
+        public void Sacar(decimal value)
         {
-            if (saldo >= valor){
-                saldo -= valor;
+            if (balance >= value){
+                balance -= value;
                 Console.WriteLine("Saque realizado com sucesso");
             }
             else
@@ -31,7 +31,7 @@ namespace ExemploPOO.Models
 
         public void ExibirSaldo()
         {
-            Console.WriteLine("Seu saldo disponível é: " + saldo);
+            Console.WriteLine("Seu saldo disponível é: " + balance);
         }
 
         

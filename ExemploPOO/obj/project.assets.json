@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mateus-zorinos/Documents/Estudos/DIO/Bootcamp Dotnet/ExemploPOO/ExemploPOO.csproj",
+      "projectUniqueName": "/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/ExemploPOO.csproj",
       "projectName": "ExemploPOO",
-      "projectPath": "/home/mateus-zorinos/Documents/Estudos/DIO/Bootcamp Dotnet/ExemploPOO/ExemploPOO.csproj",
+      "projectPath": "/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/ExemploPOO.csproj",
       "packagesPath": "/home/mateus-zorinos/.nuget/packages/",
-      "outputPath": "/home/mateus-zorinos/Documents/Estudos/DIO/Bootcamp Dotnet/ExemploPOO/obj/",
+      "outputPath": "/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mateus-zorinos/.nuget/NuGet/NuGet.Config"

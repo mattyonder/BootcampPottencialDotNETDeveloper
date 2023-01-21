@@ -13,3 +13,18 @@
 /home/mateus-zorinos/Documents/Estudos/DIO/Bootcamp Dotnet/ExemploPOO/obj/Debug/net7.0/ExemploPOO.pdb
 /home/mateus-zorinos/Documents/Estudos/DIO/Bootcamp Dotnet/ExemploPOO/obj/Debug/net7.0/ExemploPOO.genruntimeconfig.cache
 /home/mateus-zorinos/Documents/Estudos/DIO/Bootcamp Dotnet/ExemploPOO/obj/Debug/net7.0/ref/ExemploPOO.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/bin/Debug/net7.0/ExemploPOO
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/bin/Debug/net7.0/ExemploPOO.deps.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/bin/Debug/net7.0/ExemploPOO.runtimeconfig.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/bin/Debug/net7.0/ExemploPOO.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/bin/Debug/net7.0/ExemploPOO.pdb
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ExemploPOO.csproj.AssemblyReference.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ExemploPOO.AssemblyInfoInputs.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ExemploPOO.AssemblyInfo.cs
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ExemploPOO.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/refint/ExemploPOO.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ExemploPOO.pdb
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ExemploPOO.genruntimeconfig.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ExemploPOO/obj/Debug/net7.0/ref/ExemploPOO.dll

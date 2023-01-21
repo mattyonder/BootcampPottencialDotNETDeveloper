@@ -7,10 +7,19 @@ namespace ExemploPOO.Models
 {
     public class Teacher : Pessoa
     {
-        public decimal Salary { get; set; }
-        public override void Apresentar()
+        public Teacher()
         {
-             Console.WriteLine($"Olá, meu nome é {Nome}, tenho {Idade} anos, sou um professor e ganho R${Salary}.");
+            
+        }
+
+        public Teacher(string name) : base(name)
+        {
+            
+        }
+        public decimal Salary { get; set; }
+        public override void Introduce()
+        {
+             Console.WriteLine($"Olá, meu nome é {Name}, tenho {Age} anos, sou um professor e ganho R${Salary}.");
         }
     }
 }
