@@ -1,0 +1,15 @@
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/bin/Debug/net7.0/DesafioPOO
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/bin/Debug/net7.0/DesafioPOO.deps.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/bin/Debug/net7.0/DesafioPOO.runtimeconfig.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/bin/Debug/net7.0/DesafioPOO.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/bin/Debug/net7.0/DesafioPOO.pdb
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/DesafioPOO.csproj.AssemblyReference.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/DesafioPOO.AssemblyInfoInputs.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/DesafioPOO.AssemblyInfo.cs
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/DesafioPOO.csproj.CoreCompileInputs.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/DesafioPOO.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/refint/DesafioPOO.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/DesafioPOO.pdb
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/DesafioPOO.genruntimeconfig.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjeto-Pottencial.NETDeveloper-CriandoSistemaEAbstraindoUmCelular/obj/Debug/net7.0/ref/DesafioPOO.dll
