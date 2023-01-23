@@ -1,0 +1,89 @@
+Constraint são regras que uma tabela tem para inserção de dados:
+NOT NULL - Não permite valor nulo
+UNIQUE - Valor único em toda a tabela
+CHECK - Garante uma determinada condição
+DEFAULT - Valor padrão para inserção
+PRIMARY KEY - Combinação de NOT NULL e UNIQUE que garante o indentificador unico da linha
+FOREIGN KEY - Garante que um registro exista em outra tabela
+
+----------------------------------------------------------------------------------
+
+ALTER TABLE Produtos 
+ADD UNIQUE (Nome)
+
+Aqui eu estou garantindo que os valores da coluna nome seram unicos na tabela produtos.
+
+----------------------------------------------------------------------------------
+
+ALTER TABLE Produtos 
+ADD CONSTRAINT CHK_ColunaGenero CHECK(Genero = 'U' OR Genero = 'M' or Genero = 'F')
+
+Ele garante que a coluna Genero vai conter apenas valores como 'U', 'M' ou 'F'
+
+----------------------------------------------------------------------------------
+
+ALTER TABLE Produtos 
+ADD DEFAULT GETDATE() FOR DataCadastro
+
+Ele garante que a coluna DataCadastro recebe o valor GETDATE()
+
+----------------------------------------------------------------------------------
+
+ALTER TABLE Produtos 
+DROP CONSTRAINT CHK_ColunaGenero
+
+Ele removeu a Constraint CHK_ColunaGenero da tabela produtos
+
+----------------------------------------------------------------------------------
+
+Stored Procedure
+
+CREATE PROCEDURE InserirNovoProduto
+@Nome varchar(255),
+@Cor varchar(50),
+@Preco decimal,
+@Tamanho varchar(5),
+@Genero char(1)
+
+AS
+
+INSERT INTO Produtos (Nome, Cor ,Preco, Tamanho, Genero)
+VALUES (@Nome, @Cor, @Preco, @Tamanho, @Genero)
+
+Criei tipo um método, que eu uso esse código ai pra adicionar valores com mais facilidade
+
+EXECUTE InserirNovoProduto 'NomeTeste', 'COR TESTE', 50, 'M', 'M'
+
+Aqui eu inseri valores nela
+
+----------------------------------------------------------------------------------
+
+CREATE PROCEDURE ObterProdutosPorTamnho
+@TamanhoProduto VARCHAR(5)
+
+AS 
+
+SELECT  * FROM Produtos WHERE Tamanho = @TamanhoProduto
+
+Aqui criei uma procedure com SELECT
+
+EXEC ObterProdutosPorTamnho 'P'
+
+----------------------------------------------------------------------------------
+
+CREATE FUNCTION CalcularDesconto(@Preco DECIMAL(13,2), @Porcentagem INT)
+RETURNS DECIMAL(13, 2)
+
+BEGIN 
+	RETURN @Preco - @Preco / 100 * @Porcentagem
+END
+
+Aqui eu criei uma função, é semelhante a um PROCEDURE, mas uma function sempre deve ter um retorno.]
+
+SELECT 
+	Nome,
+	Preco,
+	dbo.CalcularDesconto(Preco, 10) PrecoComDesconto
+FROM Produtos WHERE TAMANHO = 'M'
+
+Aqui eu to chamando a function

@@ -1,0 +1,40 @@
+Protocolo HTTP - HyperText Transfer Protocol 
+- Protocolo de comunicação
+- Intermedio entre cliente servidor
+- O Browser implementa o cliente HTTP
+- Servidor host de objetos web
+
+O cliente requisita os objetos Web
+E o servidor vai responder usando o protocolo TCP
+
+Métodos HTTP:
+
+GET - Solicita um recurso do servidor
+HEAD - GET sem corpo de resposta
+POST - Submete uma entidade a um recurso ( envia recursos para servidor )
+PUT - Substitui de recursos pelos dados da requisição ( Substitui recursos parcialmente )
+DELETE - Remoção de um recurso
+TRACE - Chamada de loop-back a um determinado recurso ( Trás diagnostico da rede para traçar caminhos )   
+OPTION - Opções de comunicação com recurso ( Retorna as opções de comunicação )
+CONNECT - Tunelamento identificado pelo recurso ( Cria uma ponte entre o cliente e o servidor a determinado recurso )
+PATCH - Modificação parcial
+
+HTTP Response:
+
+200 OK - Request bem sucedido e objeto enviado
+301 Moved Permanently - Objeto realocado nova URL no campo Location
+400 Bad Request - Resposta genérica - servidor não entendeu
+404 Not Found - O documento solicitado é inexistente
+505 - HTTP Version Not Supported - Versão do protocolo não suportada pelo servidor
+
+100 - 199 Information
+200 - 299 Successful
+300 - 399 Redirection
+400 - 499 Client error
+500 - 599 Server error
+
+Cokkies são pequenos pedaços ou blocos de dados criados e utilizados pelo servidor para persistir dados no dispositivo do cliente ( eles rastreiam tbm ), estão dentro do HEADERFILE
+
+O web cache é disperso em sua estrutura cliente-servidor
+
+

@@ -1,0 +1,3 @@
+Tipos de bancos de dados:
+	Banco de dados relacionais, mais usado atualmente. Armazena dados estruturados, organizados em tabelas com colunas e linhas que se relacionam entre si.
+	Banco de dados não relacionais. Não são armazenados em tabelas, são armazenados de maneira não-estruturada ou semi estruturada. Por não ter muitas regras específicas, tem desempenho melhor que o banco de dados relacional.

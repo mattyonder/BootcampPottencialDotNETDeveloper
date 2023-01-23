@@ -1,0 +1,84 @@
+Comandos SQL:
+	DDL DATA DEFINITION LANGUAGE: Create, Drop, Alter, Truncate
+	DCL DATA CONTROL LANGUAGE: Grant, Revoke
+	DML DATA MANIPULATION LANGUAGE: Insert, Update, Delete
+	TCL TRANSACTION CONTROL LANGUAGE: Commit, Rollback, Savepoin
+	DQL DATA QUERY LANGUAGE: Select
+	
+--------------------------------------------------------------------
+
+Order by, ordena a seleção baseada em uma coluna
+Order by Nome
+Order by Sobrenome
+Order by Nome DESC
+ORDER BY Nome, Sobrenome  
+
+--------------------------------------------------------------------
+
+SELECT Nome, Sobrenome , Email FROM Clientes c 
+
+--------------------------------------------------------------------
+
+SELECT * FROM Clientes c 
+WHERE Nome  = 'Ken'
+ORDER BY Nome, Sobrenome
+
+Estou selecionando somente os nomes Ken
+
+(WHERE sempre acima do ORDER BY)
+
+SELECT * FROM Clientes c 
+WHERE Nome  = 'Ken' AND Sobrenome = 'Sánchez'
+ORDER BY Nome, Sobrenome
+
+SELECT * FROM Clientes c 
+WHERE Nome  = 'Ken' OR  Sobrenome = 'Sánchez'
+ORDER BY Nome, Sobrenome
+
+SELECT * FROM Clientes c 
+WHERE AceitaComunicados  = 1
+ORDER BY Nome, Sobrenome
+
+--------------------------------------------------------------------
+
+SELECT *FROM Clientes 
+WHERE Nome LIKE 'K%'
+ORDER BY Nome, Sobrenome
+(Seleciona todos os nomes que começam com a letra K ( o % quer dizer que é qualquer coisa, o nome deve começar com K e o resto não vai ser verificado )) 
+
+--------------------------------------------------------------------
+
+INSERT INTO Clientes (Nome, Sobrenome, Email, AceitaComunicados, DataCadastro)
+VALUES ('Mateus', 'Santos', 'email@gmail.com', 1, GETDATE())
+
+--------------------------------------------------------------------
+
+INSERT INTO Clientes VALUES ('Matias', 'Santiago', 'gmail@gmail.com', 1, GETDATE()) 
+
+(WHERE = ONDE)
+
+--------------------------------------------------------------------
+
+UPDATE Clientes 
+SET Email = 'emailatualizado123@gmail.com' ,
+	AceitaComunicados = 0
+WHERE Id = 32
+
+--------------------------------------------------------------------
+
+BEGIN TRAN
+ROLLBACK
+
+(Desfaz alterações feitas)
+
+--------------------------------------------------------------------
+
+CREATE TABLE Produtos (
+	Id int IDENTITY(1,1) NOT NULL,
+	Nome varchar(255) NOT NULL, 
+	Cor varchar(50) NULL,
+	Preco decimal(13, 2) NOT NULL,
+	Tamanho varchar(5) NULL,
+	Genero char(1) NULL,
+)
+

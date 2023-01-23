@@ -1,0 +1,123 @@
+SELECT COUNT(*)  FROM Produtos p 
+SELECT COUNT(*) QuantidadeProdutosTamanhoM FROM Produtos WHERE Tamanho = 'M' 
+
+///////////////////////////////////////////////////////////////////////////
+
+COUNT, conta quantas linhas existe na tabela
+
+
+Ctrl + Enter - Executa a linha que eu selecionei
+Alt + x -  Executa o script todo
+
+------------------------------------------------------------------
+
+SELECT SUM(Preco) PrecoTotal FROM Produtos p
+
+SELECT SUM(Preco) PrecoTotalTamanhoM FROM Produtos p WHERE Tamanho = 'M'
+
+///////////////////////////////////////////////////////////////////////////
+
+SUM, soma os valores ( deve ser número ) da coluna selecionada
+
+------------------------------------------------------------------
+
+SELECT MAX(Preco) ProdutoMaisCaro FROM  Produtos 
+
+SELECT MAX(Preco) ProdutoMaisCaroTamanhoM FROM  Produtos WHERE Tamanho = 'M'
+
+SELECT MIN(Preco) ProdutoMaisBarato FROM  Produtos 
+
+SELECT MIN(Preco) ProdutoMaisBaratoTamanhoM FROM  Produtos WHERE Tamanho = 'M'
+
+SELECT AVG(Preco) MediaDosProdutos FROM Produtos 
+
+SELECT AVG(Preco) MediaDosProdutos FROM Produtos WHERE Tamanho = 'M' 
+
+///////////////////////////////////////////////////////////////////////////
+
+MAX - Pega o maior valor de uma coluna
+MIN - Pega o menor valor de uma coluna
+AVG - Retorna a média dos valores dessa coluna
+
+------------------------------------------------------------------
+
+SELECT 
+	Nome + ' Cor: ' + Cor  + ' - ' + Genero NomeProduto
+FROM Produtos p 
+
+///////////////////////////////////////////////////////////////////////////
+
+Concatenação de Strings
+
+------------------------------------------------------------------
+
+SELECT 
+	Nome + ' Cor: ' + Cor  + ' - ' + Genero NomeProdutoCompleto,
+	UPPER(Nome) Nome,
+	LOWER(Cor) Cor 
+FROM Produtos p 
+
+///////////////////////////////////////////////////////////////////////////
+
+UPPER, deixa tudo maiusculo.
+LOWER, deixa tudo minusculo.
+
+------------------------------------------------------------------
+
+ALTER TABLE Produtos 
+ADD DataCadastro DATETIME2
+
+ALTER TABLE Produtos 
+DROP COLUMN DataCadastro
+
+UPDATE Produtos SET DataCadastro = GETDATE() 
+
+///////////////////////////////////////////////////////////////////////////
+
+Adição de coluna
+
+------------------------------------------------------------------
+
+SELECT 
+	Nome + ' Cor: ' + Cor  + ' - ' + Genero NomeProdutoCompleto,
+	UPPER(Nome) Nome,
+	LOWER(Cor) Cor,
+	FORMAT(DataCadastro, 'dd/MM/yyyy HH:mm')
+FROM Produtos p 
+
+///////////////////////////////////////////////////////////////////////////
+
+Tipo FORMAT, ele formata a maneira como os dados são mostrados
+
+------------------------------------------------------------------
+
+SELECT Tamanho,
+COUNT(*) Quantidade
+FROM Produtos WHERE Tamanho <> '' GROUP BY Tamanho ORDER BY Quantidade DESC
+
+///////////////////////////////////////////////////////////////////////////
+
+GROUP BY, ele junta registros
+
+------------------------------------------------------------------
+
+CREATE TABLE Enderecos (
+	Id int PRIMARY KEY IDENTITY(1,1) NOT NULL,
+	IdCliente int NULL,
+	Rua varchar(255) NULL,
+	Bairro varchar(255) NULL,
+	Cidade varchar(255) NULL,
+	Estado char(2) NULL
+	
+	CONSTRAINT FK_Enderecos_Clientes FOREIGN KEY(IdCliente)
+	REFERENCES Clientes(Id)
+)
+
+///////////////////////////////////////////////////////////////////////////
+
+Criando chave estrangeira
+
+------------------------------------------------------------------
+
+INNER JOIN Enderecos ON Clientes.Id = Enderecos.IdCliente
+WHERE Clientes.Id = 4
