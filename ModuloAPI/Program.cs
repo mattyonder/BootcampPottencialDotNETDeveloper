@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<DiaryContext>(options =>
-options.UseSqlServer(builder.Configuration.GetConnectionString("ConexãoPadrao")));
+options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -28,3 +28,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+//; Integrated Security = false
+// "User ID=sa; Password=Ggwb2017;Server=localhost; Initial Catalog=Diary; Encrypt=True"
