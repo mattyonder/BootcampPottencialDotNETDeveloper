@@ -35,6 +35,9 @@ HTTP Response:
 
 Cokkies são pequenos pedaços ou blocos de dados criados e utilizados pelo servidor para persistir dados no dispositivo do cliente ( eles rastreiam tbm ), estão dentro do HEADERFILE
 
+Protocolo SSL, cripografia por chave e certificado de site
 O web cache é disperso em sua estrutura cliente-servidor
 
+HTTP 2 Tem a função de prioziração de recursos, voce configura sua prioridade
 
+No 2.0 veio o a função PUSH, que envia dados para o cliente sem requisição dele, tipo o cliente pede um dado e é enviado um PUSH de dados referente a esse dado ( O PUSH NÃO É HABILITADO POR DEFAULT E TAMBÉM DEVE SER CONFIGURADO PELO CLIENTE )
