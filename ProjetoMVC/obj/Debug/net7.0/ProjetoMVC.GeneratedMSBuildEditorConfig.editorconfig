@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ProjetoMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ProjetoMVC/Views/Contato/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9Dcmlhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ProjetoMVC/Views/Contato/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9FZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ProjetoMVC/Views/Contato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/ProjetoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
