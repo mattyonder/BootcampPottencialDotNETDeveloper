@@ -1,0 +1,42 @@
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/appsettings.Development.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/appsettings.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.deps.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.runtimeconfig.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.pdb
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.csproj.AssemblyReference.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.AssemblyInfoInputs.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.AssemblyInfo.cs
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.csproj.CoreCompileInputs.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.MvcApplicationPartsAssemblyInfo.cs
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.MvcApplicationPartsAssemblyInfo.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/staticwebassets/msbuild.DesafioDeProjetoTechPottencia - Payment API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/staticwebassets/msbuild.build.DesafioDeProjetoTechPottencia - Payment API.props
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.DesafioDeProjetoTechPottencia - Payment API.props
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.DesafioDeProjetoTechPottencia - Payment API.props
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/staticwebassets.pack.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/staticwebassets.build.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/staticwebassets.development.json
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/scopedcss/bundle/DesafioDeProjetoTechPottencia - Payment API.styles.css
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.csproj.CopyComplete
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/refint/DesafioDeProjetoTechPottencia - Payment API.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.pdb
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/DesafioDeProjetoTechPottencia - Payment API.genruntimeconfig.cache
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/obj/Debug/net7.0/ref/DesafioDeProjetoTechPottencia - Payment API.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Humanizer.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/mateus-zorinos/Documents/Estudos/DIO/BootcampPottencialDotNETDeveloper/DesafioDeProjetoTechPottencia - Payment API/bin/Debug/net7.0/System.CodeDom.dll

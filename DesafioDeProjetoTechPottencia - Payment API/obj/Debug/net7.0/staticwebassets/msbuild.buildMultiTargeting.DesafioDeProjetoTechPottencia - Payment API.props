@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DesafioDeProjetoTechPottencia - Payment API.props" />
+</Project>
